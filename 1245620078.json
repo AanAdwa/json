@@ -5,21 +5,31 @@
             "umur" : 19,
             "pendidikan" : "D3",
             "hobi" : "olahraga",
-            "alamat" : "tabam, kota ternate utara"
+            "alamat" : "tabam, kota ternate utara",
+            "jk" : "laki-laki",
+            "profil" : "img/profil2.png"
         },
         {
             "nama" : "Hijrah",
             "umur" : 18,
             "pendidikan" : "S1",
             "hobi" : ["singing", "puisi"],
-            "alamat" : "tabam, kota ternate utara"
+            "alamat" : "tabam, kota ternate utara",
+            "jk" : "perempuan",
+            "profil" : "img/profil2.png"
+
+
         },
         {
             "nama" : "fitrih",
             "umur" : 16,
             "pendidikan" : "SMA",
             "hobi" : "olahraga",
-            "alamat" : "tabam, kota ternate utara"
+            "alamat" : "tabam, kota ternate utara",
+            "jk" : "perempuan",
+            "profil" : "img/profil2.png"
+
+
         }
 
 ]
