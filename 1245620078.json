@@ -1,0 +1,26 @@
+{
+    "family":[
+        {
+            "nama" : "ADWA AHMAD AL BAYAN",
+            "umur" : 19,
+            "pendidikan" : "D3",
+            "hobi" : "olahraga",
+            "alamat" : "tabam, kota ternate utara"
+        },
+        {
+            "nama" : "Hijrah",
+            "umur" : 18,
+            "pendidikan" : "S1",
+            "hobi" : ["singing", "puisi"],
+            "alamat" : "tabam, kota ternate utara"
+        },
+        {
+            "nama" : "fitrih",
+            "umur" : 16,
+            "pendidikan" : "SMA",
+            "hobi" : "olahraga",
+            "alamat" : "tabam, kota ternate utara"
+        }
+
+]
+}
